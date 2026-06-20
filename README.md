@@ -12,6 +12,6 @@
 
 ## Structure
 - `01_brownian_motion/` — simulation of Brownian paths
-- `02_euler_maruyama/` — Euler-Maruyama on GBM, comparison with exact solution
+- `02_euler_maruyama/` — Euler-Maruyama on GBM
 
 
