@@ -7,8 +7,8 @@
 
 ## Topics Covered
 - Brownian motion simulation
-- Euler-Maruyama discretization of SDEs
-- Geometric Brownian Motion (GBM)
+- Euler-Maruyama discretization of SDEs(Geometric Brownian Motion (GBM), Ornstein-Uhlenbeck Process(OU))
+
 
 ## Structure
 - `01_brownian_motion/` — simulation of Brownian paths
